@@ -1,6 +1,6 @@
 # Practica01_web
 
-<img width="1144" alt="Captura de la aplicación web" src="asd" />
+<img width="1006" height="573" alt="image" src="https://github.com/user-attachments/assets/a717c620-a741-4326-98bf-54647f3c4337" />
 
 ## Información
 
